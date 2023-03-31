@@ -1,0 +1,40 @@
+{"level":"info","message":"Home page retrieved successfully","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"An authorized Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"info","message":"Authentication successful","service":"calculator-microservice"}
+{"level":"info","message":"An authorized Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid credentials","service":"calculator-microservice"}
+{"level":"error","message":"Invalid credentials","service":"calculator-microservice"}
+{"level":"error","message":"Invalid credentials","service":"calculator-microservice"}
+{"level":"info","message":"Authentication successful","service":"calculator-microservice"}
+{"level":"info","message":"An authorized Divide operation requested on 0 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Arithmetic operation failed on 0 and NaN","service":"calculator-microservice"}
+{"level":"info","message":"Authentication successful","service":"calculator-microservice"}
+{"level":"info","message":"An authorized Divide operation requested on 0 and NaN","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Arithmetic operation failed on 0 and NaN","service":"calculator-microservice"}
+{"level":"info","message":"An authorized Divide operation requested on 0 and 1","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 0 and 1 are valid numbers ","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation successful on 0 and 1. Result = 0","service":"calculator-microservice"}
